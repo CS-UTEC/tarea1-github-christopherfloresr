@@ -1,2 +1,3 @@
-# CS2B01
-## Christopher Flores
+| Nombres y apellidos | Codigo |
+| ------------- | ------------- |
+| Christopher Flores Rimac | 201720004 |
